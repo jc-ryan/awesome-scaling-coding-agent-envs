@@ -34,17 +34,17 @@ This repository is a curated collection of resources dedicated to:
 ### 🛠️ Automated Environment Setup
 ##### Benchmark
 
-- (Fu et al., arxiv 2025) Multi-Docker-Eval: A ‘Shovel of the Gold Rush’ Benchmark on Automatic Environment Building for Software Engineering
-- (Eliseeva et al., ICLR 2025 workshop) ENVBENCH: A BENCHMARK FOR AUTOMATED ENVIRONMENT SETUP
-- (Kuang et al., arxiv 2025) Process-Level Trajectory Evaluation for Environment Configuration in Software Engineering Agents
-- (Milliken et al., Sanner 2025) Beyond pip install: Evaluating LLM Agents for the Automated Installation of Python Projects
+- (Fu et al., arxiv 2025) Multi-Docker-Eval: A ‘Shovel of the Gold Rush’ Benchmark on Automatic Environment Building for Software Engineering [[Paper](https://www.arxiv.org/abs/2512.06915)] [[Data](https://huggingface.co/datasets/litble/Multi-Docker-Eval)]
+- (Eliseeva et al., ICLR 2025 workshop) ENVBENCH: A BENCHMARK FOR AUTOMATED ENVIRONMENT SETUP [[Paper](https://arxiv.org/pdf/2503.14443)] [[Data](https://github.com/JetBrains-Research/EnvBench)]
+- (Kuang et al., arxiv 2025) Process-Level Trajectory Evaluation for Environment Configuration in Software Engineering Agents [[Paper](https://arxiv.org/abs/2510.25694)] [[Data](https://github.com/TencentYoutuResearch/EnConda-Bench)]
+- (Milliken et al., Sanner 2025) Beyond pip install: Evaluating LLM Agents for the Automated Installation of Python Projects [[Paper](https://arxiv.org/pdf/2412.06294)] [[Data](https://github.com/coinse/installamatic)]
 
 ##### EnvAgent
 
-- (Badertdinov et al., arxiv 2025) SWE-rebench: An Automated Pipeline for Task Collection and Decontaminated Evaluation of Software Engineering Agents
-- (Xie et al., arxiv 2025) RepoST: Scalable Repository-Level Coding Environment Construction with Sandbox Testing
-- (Bouzenia and Pradel, ISSTA 2025) You Name It, I Run It: An LLM Agent to Execute Tests of Arbitrary Projects
-- (Jain et al., ICML 2024) R2E: Turning any GitHub Repository into a Programming Agent Environment
+- (Badertdinov et al., arxiv 2025) SWE-rebench: An Automated Pipeline for Task Collection and Decontaminated Evaluation of Software Engineering Agents [[Paper](https://arxiv.org/pdf/2505.20411)] [[Data](https://huggingface.co/datasets/nebius/SWE-rebench)]
+- (Xie et al., arxiv 2025) RepoST: Scalable Repository-Level Coding Environment Construction with Sandbox Testing [[Paper](https://arxiv.org/abs/2503.07358)] [[Data](https://github.com/yiqingxyq/RepoST)]
+- (Bouzenia and Pradel, ISSTA 2025) You Name It, I Run It: An LLM Agent to Execute Tests of Arbitrary Projects [[Paper](https://arxiv.org/abs/2412.10133)] [[Code](https://github.com/sola-st/ExecutionAgent)]
+- (Jain et al., ICML 2024) R2E: Turning any GitHub Repository into a Programming Agent Environment [[Paper](https://openreview.net/pdf/13f2979bd779bbc9936d509aaacab58f9f3fbe1d.pdf)] [[Code](https://github.com/r2e-project/r2e)]
 
 ### 🪄 Scalable Instance Synthesis
 - (Zhu et al., arxiv 2025) Training Versatile Coding Agents in Synthetic Environments
@@ -55,6 +55,8 @@ This repository is a curated collection of resources dedicated to:
 - (Zhang et al., ICML 2025) SWE-Flow: Synthesizing Software Engineering Data in a Test-Driven Manner
 
 ### 📈 Novel Training Paradigms
+- (Wei et al., arxiv 2025) Toward Training Superintelligent Software Agents through Self-Play SWE-RL
+- (Antoni  et al., ICLR 2025) SWE-SEARCH: ENHANCING SOFTWARE AGENTS WITH MONTE CARLO TREE SEARCH AND ITERATIVE REFINEMENT
 
 ---
 
