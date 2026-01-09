@@ -53,6 +53,7 @@ This repository is a curated collection of resources dedicated to:
 - (Pham et al., arxiv 2025) SWE-Synth: Synthesizing Verifiable Bug-Fix Data to Enable Large Language Models in Resolving Real-World Bugs [[Paper](https://arxiv.org/pdf/2504.14757)] [[Code](https://github.com/FSoft-AI4Code/SWE-Synth)]
 - (Wang et al., arxiv 2025) SWE-Mirror: Scaling Issue-Resolving Datasets by Mirroring Issues Across Repositories [[Paper](https://arxiv.org/pdf/2509.08724)]
 - (Yang et al., arxiv 2025) SWE-smith: Scaling Data for Software Engineering Agents [[Paper](https://arxiv.org/pdf/2504.21798)] [[Code](https://github.com/SWE-bench/SWE-smith)]
+- (Jain et al., COLM 2025) R2E-Gym: Procedural Environment Generation and Hybrid Verifiers for Scaling Open-Weights SWE Agents [[Paper](https://arxiv.org/pdf/2504.07164)] [[Code](https://github.com/R2E-Gym/R2E-Gym)]
 - (Zhang et al., ICML 2025) SWE-Flow: Synthesizing Software Engineering Data in a Test-Driven Manner [[Paper](https://arxiv.org/pdf/2506.09003)] [[Code](https://github.com/Hambaobao/SWE-Flow)]
 
 ##### Test Generation
