@@ -47,6 +47,7 @@ This repository is a curated collection of resources dedicated to:
 - (Jain et al., ICML 2024) R2E: Turning any GitHub Repository into a Programming Agent Environment [[Paper](https://openreview.net/pdf/13f2979bd779bbc9936d509aaacab58f9f3fbe1d.pdf)] [[Code](https://github.com/r2e-project/r2e)]
 
 ### 🪄 Scalable Instance Synthesis
+##### BugFix/Feature/Perf
 - (Zhu et al., arxiv 2025) Training Versatile Coding Agents in Synthetic Environments [[Paper](https://arxiv.org/pdf/2512.12216)] [[Code](https://github.com/neulab/SWE-Playground)]
 - (Sonwane et al., arxiv 2025) BugPilot: Complex Bug Generation for Efficient Learning of SWE Skills [[Paper](https://arxiv.org/pdf/2510.19898)] [[Code](https://microsoft.github.io/debug-gym/)]
 - (Pham et al., arxiv 2025) SWE-Synth: Synthesizing Verifiable Bug-Fix Data to Enable Large Language Models in Resolving Real-World Bugs [[Paper](https://arxiv.org/pdf/2504.14757)] [[Code](https://github.com/FSoft-AI4Code/SWE-Synth)]
@@ -54,8 +55,17 @@ This repository is a curated collection of resources dedicated to:
 - (Yang et al., arxiv 2025) SWE-smith: Scaling Data for Software Engineering Agents [[Paper](https://arxiv.org/pdf/2504.21798)] [[Code](https://github.com/SWE-bench/SWE-smith)]
 - (Zhang et al., ICML 2025) SWE-Flow: Synthesizing Software Engineering Data in a Test-Driven Manner [[Paper](https://arxiv.org/pdf/2506.09003)] [[Code](https://github.com/Hambaobao/SWE-Flow)]
 
+##### Test Generation
+- (Ahmed et al., ICML 2025) Otter: Generating Tests from Issues to Validate SWE Patches [[Paper](https://arxiv.org/pdf/2502.05368)] [[Code](https://github.com/IBM/TDD-Bench-Verified)]
+- (Mundler et al., NIPS 2024) SWT-Bench: Testing and Validating Real-World Bug-Fixes with Code Agents [[Paper](https://arxiv.org/pdf/2406.12952)] [[Code](https://github.com/logic-star-ai/swt-bench)]
+- (Xu et al., ACL 2025) UTBoost: Rigorous Evaluation of Coding Agents on SWE-Bench [[Paper](https://arxiv.org/pdf/2506.09289)] [[Code](https://github.com/cuhk-shenzhen-se/utboost)]
+
+
 ### 📈 Novel Training Paradigms
 - (Wei et al., arxiv 2025) Toward Training Superintelligent Software Agents through Self-Play SWE-RL [[Paper](https://arxiv.org/pdf/2512.18552)]
+- (Shum et al., arxiv 2025) SWE-RM: EXECUTION-FREE FEEDBACK FOR SOFTWARE ENGINEERING AGENTS [[Paper](https://www.arxiv.org/pdf/2512.21919)]
+- (Xi et al., arxiv 2025) AgentPRM: Process Reward Models for LLM Agents via Step-Wise Promise and Progress [[Paper](https://arxiv.org/pdf/2511.08325)]
+- (Gandhi et al., NIPS 2025 workshop) When Agents go Astray: Course-Correcting SWE Agents with PRMs [[Paper](https://arxiv.org/pdf/2509.02360)]
 - (Antoni  et al., ICLR 2025) SWE-SEARCH: ENHANCING SOFTWARE AGENTS WITH MONTE CARLO TREE SEARCH AND ITERATIVE REFINEMENT [[Paper](https://arxiv.org/pdf/2410.20285)] [[Code](https://github.com/aorwall/moatless-tree-search)]
 
 ---
