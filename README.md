@@ -47,16 +47,16 @@ This repository is a curated collection of resources dedicated to:
 - (Jain et al., ICML 2024) R2E: Turning any GitHub Repository into a Programming Agent Environment [[Paper](https://openreview.net/pdf/13f2979bd779bbc9936d509aaacab58f9f3fbe1d.pdf)] [[Code](https://github.com/r2e-project/r2e)]
 
 ### 🪄 Scalable Instance Synthesis
-- (Zhu et al., arxiv 2025) Training Versatile Coding Agents in Synthetic Environments
-- (Sonwane et al., arxiv 2025) BugPilot: Complex Bug Generation for Efficient Learning of SWE Skills
-- (Pham et al., arxiv 2025) SWE-Synth: Synthesizing Verifiable Bug-Fix Data to Enable Large Language Models in Resolving Real-World Bugs
-- (Wang et al., arxiv 2025) SWE-Mirror: Scaling Issue-Resolving Datasets by Mirroring Issues Across Repositories
-- (Yang et al., arxiv 2025) SWE-smith: Scaling Data for Software Engineering Agents
-- (Zhang et al., ICML 2025) SWE-Flow: Synthesizing Software Engineering Data in a Test-Driven Manner
+- (Zhu et al., arxiv 2025) Training Versatile Coding Agents in Synthetic Environments [[Paper](https://arxiv.org/pdf/2512.12216)] [[Code](https://github.com/neulab/SWE-Playground)]
+- (Sonwane et al., arxiv 2025) BugPilot: Complex Bug Generation for Efficient Learning of SWE Skills [[Paper](https://arxiv.org/pdf/2510.19898)] [[Code](https://microsoft.github.io/debug-gym/)]
+- (Pham et al., arxiv 2025) SWE-Synth: Synthesizing Verifiable Bug-Fix Data to Enable Large Language Models in Resolving Real-World Bugs [[Paper](https://arxiv.org/pdf/2504.14757)] [[Code](https://github.com/FSoft-AI4Code/SWE-Synth)]
+- (Wang et al., arxiv 2025) SWE-Mirror: Scaling Issue-Resolving Datasets by Mirroring Issues Across Repositories [[Paper](https://arxiv.org/pdf/2509.08724)]
+- (Yang et al., arxiv 2025) SWE-smith: Scaling Data for Software Engineering Agents [[Paper](https://arxiv.org/pdf/2504.21798)] [[Code](https://github.com/SWE-bench/SWE-smith)]
+- (Zhang et al., ICML 2025) SWE-Flow: Synthesizing Software Engineering Data in a Test-Driven Manner [[Paper](https://arxiv.org/pdf/2506.09003)] [[Code](https://github.com/Hambaobao/SWE-Flow)]
 
 ### 📈 Novel Training Paradigms
-- (Wei et al., arxiv 2025) Toward Training Superintelligent Software Agents through Self-Play SWE-RL
-- (Antoni  et al., ICLR 2025) SWE-SEARCH: ENHANCING SOFTWARE AGENTS WITH MONTE CARLO TREE SEARCH AND ITERATIVE REFINEMENT
+- (Wei et al., arxiv 2025) Toward Training Superintelligent Software Agents through Self-Play SWE-RL [[Paper](https://arxiv.org/pdf/2512.18552)]
+- (Antoni  et al., ICLR 2025) SWE-SEARCH: ENHANCING SOFTWARE AGENTS WITH MONTE CARLO TREE SEARCH AND ITERATIVE REFINEMENT [[Paper](https://arxiv.org/pdf/2410.20285)] [[Code](https://github.com/aorwall/moatless-tree-search)]
 
 ---
 
