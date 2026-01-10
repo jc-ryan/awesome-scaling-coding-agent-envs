@@ -69,6 +69,7 @@ Resolution Training Data and Evaluation Benchmarks [[Paper](https://arxiv.org/pd
 - (Wei et al., arxiv 2025) Toward Training Superintelligent Software Agents through Self-Play SWE-RL [[Paper](https://arxiv.org/pdf/2512.18552)]
 - (Raghavendra et al., arxiv 2026) Agentic Rubrics as Contextual Verifiers for SWE Agents [[Paper](https://arxiv.org/pdf/2601.04171)]
 - (Shum et al., arxiv 2025) SWE-RM: EXECUTION-FREE FEEDBACK FOR SOFTWARE ENGINEERING AGENTS [[Paper](https://www.arxiv.org/pdf/2512.21919)]
+- (Xia et al., arxiv 2025) LIVE-SWE-AGENT: Can Software Engineering Agents Self-Evolve on the Fly? [[Paper](https://arxiv.org/pdf/2511.13646)] [[Code](https://github.com/OpenAutoCoder/live-swe-agent)]
 - (Xi et al., arxiv 2025) AgentPRM: Process Reward Models for LLM Agents via Step-Wise Promise and Progress [[Paper](https://arxiv.org/pdf/2511.08325)]
 - (Gandhi et al., NIPS 2025 workshop) When Agents go Astray: Course-Correcting SWE Agents with PRMs [[Paper](https://arxiv.org/pdf/2509.02360)]
 - (Antoni  et al., ICLR 2025) SWE-SEARCH: ENHANCING SOFTWARE AGENTS WITH MONTE CARLO TREE SEARCH AND ITERATIVE REFINEMENT [[Paper](https://arxiv.org/pdf/2410.20285)] [[Code](https://github.com/aorwall/moatless-tree-search)]
