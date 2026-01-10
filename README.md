@@ -41,6 +41,7 @@ This repository is a curated collection of resources dedicated to:
 
 ##### EnvAgent
 
+- (Guo et al., FSE 2026) SWE Data Construction, Automatically! [[Paper](https://arxiv.org/pdf/2506.10954)] [[Code](https://github.com/DeepSoftwareAnalytics/swe-factory)]
 - (Badertdinov et al., arxiv 2025) SWE-rebench: An Automated Pipeline for Task Collection and Decontaminated Evaluation of Software Engineering Agents [[Paper](https://arxiv.org/pdf/2505.20411)] [[Data](https://huggingface.co/datasets/nebius/SWE-rebench)]
 - (Xie et al., arxiv 2025) RepoST: Scalable Repository-Level Coding Environment Construction with Sandbox Testing [[Paper](https://arxiv.org/abs/2503.07358)] [[Data](https://github.com/yiqingxyq/RepoST)]
 - (Bouzenia and Pradel, ISSTA 2025) You Name It, I Run It: An LLM Agent to Execute Tests of Arbitrary Projects [[Paper](https://arxiv.org/abs/2412.10133)] [[Code](https://github.com/sola-st/ExecutionAgent)]
@@ -64,6 +65,7 @@ This repository is a curated collection of resources dedicated to:
 
 ### 📈 Novel Training Paradigms
 - (Wei et al., arxiv 2025) Toward Training Superintelligent Software Agents through Self-Play SWE-RL [[Paper](https://arxiv.org/pdf/2512.18552)]
+- (Raghavendra et al., arxiv 2026) Agentic Rubrics as Contextual Verifiers for SWE Agents [[Paper](https://arxiv.org/pdf/2601.04171)]
 - (Shum et al., arxiv 2025) SWE-RM: EXECUTION-FREE FEEDBACK FOR SOFTWARE ENGINEERING AGENTS [[Paper](https://www.arxiv.org/pdf/2512.21919)]
 - (Xi et al., arxiv 2025) AgentPRM: Process Reward Models for LLM Agents via Step-Wise Promise and Progress [[Paper](https://arxiv.org/pdf/2511.08325)]
 - (Gandhi et al., NIPS 2025 workshop) When Agents go Astray: Course-Correcting SWE Agents with PRMs [[Paper](https://arxiv.org/pdf/2509.02360)]
