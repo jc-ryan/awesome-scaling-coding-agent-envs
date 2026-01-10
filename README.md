@@ -44,7 +44,9 @@ This repository is a curated collection of resources dedicated to:
 - (Kovrigin et al., NIPS2025 workshop) Advancing Environment Setup LLMs through Online Reinforcement Learning [[Paper](https://openreview.net/pdf?id=9TsxdPdhSz)] [[Code](https://github.com/envsetup-rl-dl4c/envsetup-rl)]
 - (Guo et al., FSE 2026) SWE-Factory: Your Automated Factory for Issue
 Resolution Training Data and Evaluation Benchmarks [[Paper](https://arxiv.org/pdf/2506.10954v1)] [[Code](https://github.com/DeepSoftwareAnalytics/swe-factory)]
+- (Hu et al., NIPS2025) An LLM-based Agent for Reliable Docker Environment Configuration [[Paper](https://arxiv.org/pdf/2502.13681v1)] [[Code](https://github.com/bytedance/Repo2Run)]
 - (Badertdinov et al., arxiv 2025) SWE-rebench: An Automated Pipeline for Task Collection and Decontaminated Evaluation of Software Engineering Agents [[Paper](https://arxiv.org/pdf/2505.20411)] [[Data](https://huggingface.co/datasets/nebius/SWE-rebench)]
+- (Zhang et al., NIPS 2025) SWE-bench Goes Live! [[Paper](https://arxiv.org/pdf/2505.23419)] [[Code](https://github.com/microsoft/RepoLaunch)]
 - (Xie et al., arxiv 2025) RepoST: Scalable Repository-Level Coding Environment Construction with Sandbox Testing [[Paper](https://arxiv.org/abs/2503.07358)] [[Data](https://github.com/yiqingxyq/RepoST)]
 - (Bouzenia and Pradel, ISSTA 2025) You Name It, I Run It: An LLM Agent to Execute Tests of Arbitrary Projects [[Paper](https://arxiv.org/abs/2412.10133)] [[Code](https://github.com/sola-st/ExecutionAgent)]
 - (Jain et al., ICML 2024) R2E: Turning any GitHub Repository into a Programming Agent Environment [[Paper](https://openreview.net/pdf/13f2979bd779bbc9936d509aaacab58f9f3fbe1d.pdf)] [[Code](https://github.com/r2e-project/r2e)]
