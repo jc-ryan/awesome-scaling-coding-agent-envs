@@ -41,7 +41,8 @@ This repository is a curated collection of resources dedicated to:
 
 ##### EnvAgent
 
-- (Guo et al., FSE 2026) SWE Data Construction, Automatically! [[Paper](https://arxiv.org/pdf/2506.10954)] [[Code](https://github.com/DeepSoftwareAnalytics/swe-factory)]
+- (Guo et al., FSE 2026) SWE-Factory: Your Automated Factory for Issue
+Resolution Training Data and Evaluation Benchmarks [[Paper](https://arxiv.org/pdf/2506.10954v1)] [[Code](https://github.com/DeepSoftwareAnalytics/swe-factory)]
 - (Badertdinov et al., arxiv 2025) SWE-rebench: An Automated Pipeline for Task Collection and Decontaminated Evaluation of Software Engineering Agents [[Paper](https://arxiv.org/pdf/2505.20411)] [[Data](https://huggingface.co/datasets/nebius/SWE-rebench)]
 - (Xie et al., arxiv 2025) RepoST: Scalable Repository-Level Coding Environment Construction with Sandbox Testing [[Paper](https://arxiv.org/abs/2503.07358)] [[Data](https://github.com/yiqingxyq/RepoST)]
 - (Bouzenia and Pradel, ISSTA 2025) You Name It, I Run It: An LLM Agent to Execute Tests of Arbitrary Projects [[Paper](https://arxiv.org/abs/2412.10133)] [[Code](https://github.com/sola-st/ExecutionAgent)]
