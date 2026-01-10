@@ -41,6 +41,7 @@ This repository is a curated collection of resources dedicated to:
 
 ##### EnvAgent
 
+- (Kovrigin et al., NIPS2025 workshop) Advancing Environment Setup LLMs through Online Reinforcement Learning [[Paper](https://openreview.net/pdf?id=9TsxdPdhSz)] [[Code](https://github.com/envsetup-rl-dl4c/envsetup-rl)]
 - (Guo et al., FSE 2026) SWE-Factory: Your Automated Factory for Issue
 Resolution Training Data and Evaluation Benchmarks [[Paper](https://arxiv.org/pdf/2506.10954v1)] [[Code](https://github.com/DeepSoftwareAnalytics/swe-factory)]
 - (Badertdinov et al., arxiv 2025) SWE-rebench: An Automated Pipeline for Task Collection and Decontaminated Evaluation of Software Engineering Agents [[Paper](https://arxiv.org/pdf/2505.20411)] [[Data](https://huggingface.co/datasets/nebius/SWE-rebench)]
