@@ -62,7 +62,9 @@ Resolution Training Data and Evaluation Benchmarks [[Paper](https://arxiv.org/pd
 - (Zhang et al., ICML 2025) SWE-Flow: Synthesizing Software Engineering Data in a Test-Driven Manner [[Paper](https://arxiv.org/pdf/2506.09003)] [[Code](https://github.com/Hambaobao/SWE-Flow)]
 
 ##### Test Generation
+- (Nashid et al., arxiv 2025) Issue2Test: Generating Reproducing Test Cases from Issue Reports [[Paper](https://arxiv.org/pdf/2503.16320)] [[Code](https://github.com/test-generation/issue2test)]
 - (Ahmed et al., ICML 2025) Otter: Generating Tests from Issues to Validate SWE Patches [[Paper](https://arxiv.org/pdf/2502.05368)] [[Code](https://github.com/IBM/TDD-Bench-Verified)]
+- (Ahmed et al., arxiv 2024) TDD-Bench Verified: Can LLMs Generate Tests for Issues Before They Get Resolved? [[Paper](https://arxiv.org/pdf/2412.02883)] [[Code](https://github.com/IBM/TDD-Bench-Verified)]
 - (Mundler et al., NIPS 2024) SWT-Bench: Testing and Validating Real-World Bug-Fixes with Code Agents [[Paper](https://arxiv.org/pdf/2406.12952)] [[Code](https://github.com/logic-star-ai/swt-bench)]
 - (Xu et al., ACL 2025) UTBoost: Rigorous Evaluation of Coding Agents on SWE-Bench [[Paper](https://arxiv.org/pdf/2506.09289)] [[Code](https://github.com/cuhk-shenzhen-se/utboost)]
 
