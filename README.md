@@ -52,7 +52,7 @@ Resolution Training Data and Evaluation Benchmarks [[Paper](https://arxiv.org/pd
 - (Jain et al., ICML 2024) R2E: Turning any GitHub Repository into a Programming Agent Environment [[Paper](https://openreview.net/pdf/13f2979bd779bbc9936d509aaacab58f9f3fbe1d.pdf)] [[Code](https://github.com/r2e-project/r2e)]
 
 ### 🪄 Scalable Instance Synthesis
-##### BugFix/Feature/Perf
+##### BugFix / Feature / Perf
 - (Zhu et al., arxiv 2025) Training Versatile Coding Agents in Synthetic Environments [[Paper](https://arxiv.org/pdf/2512.12216)] [[Code](https://github.com/neulab/SWE-Playground)]
 - (Sonwane et al., arxiv 2025) BugPilot: Complex Bug Generation for Efficient Learning of SWE Skills [[Paper](https://arxiv.org/pdf/2510.19898)] [[Code](https://microsoft.github.io/debug-gym/)]
 - (Pham et al., arxiv 2025) SWE-Synth: Synthesizing Verifiable Bug-Fix Data to Enable Large Language Models in Resolving Real-World Bugs [[Paper](https://arxiv.org/pdf/2504.14757)] [[Code](https://github.com/FSoft-AI4Code/SWE-Synth)]
@@ -68,7 +68,12 @@ Resolution Training Data and Evaluation Benchmarks [[Paper](https://arxiv.org/pd
 
 
 ### 📈 Novel Training Paradigms
+##### Self-Play / Recursive-improvement
 - (Wei et al., arxiv 2025) Toward Training Superintelligent Software Agents through Self-Play SWE-RL [[Paper](https://arxiv.org/pdf/2512.18552)]
+- (Kumar et al., arxiv 2026) Digital Red Queen: Adversarial Program Evolution in Core War with LLMs [[Paper](https://arxiv.org/pdf/2601.03335)] [[Code](https://github.com/SakanaAI/drq/)]
+- (Rank et al., arxiv 2025) PostTrainBench: Measuring AI Ability to Perform LLM Post-Training [[Code](https://github.com/aisa-group/PostTrainBench)]
+
+##### (P)RM / Verifier / MCTS
 - (Raghavendra et al., arxiv 2026) Agentic Rubrics as Contextual Verifiers for SWE Agents [[Paper](https://arxiv.org/pdf/2601.04171)]
 - (Shum et al., arxiv 2025) SWE-RM: EXECUTION-FREE FEEDBACK FOR SOFTWARE ENGINEERING AGENTS [[Paper](https://www.arxiv.org/pdf/2512.21919)]
 - (Xia et al., arxiv 2025) LIVE-SWE-AGENT: Can Software Engineering Agents Self-Evolve on the Fly? [[Paper](https://arxiv.org/pdf/2511.13646)] [[Code](https://github.com/OpenAutoCoder/live-swe-agent)]
