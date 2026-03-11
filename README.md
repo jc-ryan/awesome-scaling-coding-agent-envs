@@ -55,6 +55,10 @@ Resolution Training Data and Evaluation Benchmarks [[Paper](https://arxiv.org/pd
 
 ### 🪄 Scalable Instance Synthesis
 ##### BugFix / Feature / Perf
+- (Badertdinov et al., arxiv 2026) SWE-rebench V2: Language-Agnostic SWE Task Collection at Scale [[Paper](https://arxiv.org/pdf/2602.23866)] [[Data](https://huggingface.co/datasets/nebius/SWE-rebench-V2)]
+- (Zhao et al., arxiv 2026) Immersion in the GitHub Universe: Scaling Coding Agents to Mastery [[Paper](https://arxiv.org/pdf/2602.09892)] [[Data](https://huggingface.co/collections/AweAI-Team/scale-swe)]
+- (Chen et al., arxiv 2026) SWE-Universe: Scale Real-World Verifiable Environments to Millions [[Paper](https://arxiv.org/pdf/2602.02361)]
+- (Jiang et al., arxiv 2026) daVinci-Agency: Unlocking Long-Horizon Agency Data-Efficiently [[Paper](https://arxiv.org/abs/2602.02619)] [[Code](https://github.com/GAIR-NLP/daVinci-Agency)]
 - (Zhu et al., arxiv 2025) Training Versatile Coding Agents in Synthetic Environments [[Paper](https://arxiv.org/pdf/2512.12216)] [[Code](https://github.com/neulab/SWE-Playground)]
 - (Sonwane et al., arxiv 2025) BugPilot: Complex Bug Generation for Efficient Learning of SWE Skills [[Paper](https://arxiv.org/pdf/2510.19898)] [[Code](https://microsoft.github.io/debug-gym/)]
 - (Pham et al., arxiv 2025) SWE-Synth: Synthesizing Verifiable Bug-Fix Data to Enable Large Language Models in Resolving Real-World Bugs [[Paper](https://arxiv.org/pdf/2504.14757)] [[Code](https://github.com/FSoft-AI4Code/SWE-Synth)]
@@ -78,6 +82,7 @@ Resolution Training Data and Evaluation Benchmarks [[Paper](https://arxiv.org/pd
 - (Rank et al., arxiv 2025) PostTrainBench: Measuring AI Ability to Perform LLM Post-Training [[Code](https://github.com/aisa-group/PostTrainBench)]
 
 ##### (P)RM / Verifier / MCTS
+- (Wang et al., arxiv 2026) A Rubric-Supervised Critic from Sparse Real-World Outcomes [[Paper](https://arxiv.org/pdf/2603.03800)] [[Code](https://github.com/OpenHands/critic-rubrics)]
 - (Raghavendra et al., arxiv 2026) Agentic Rubrics as Contextual Verifiers for SWE Agents [[Paper](https://arxiv.org/pdf/2601.04171)]
 - (Shum et al., arxiv 2025) SWE-RM: EXECUTION-FREE FEEDBACK FOR SOFTWARE ENGINEERING AGENTS [[Paper](https://www.arxiv.org/pdf/2512.21919)]
 - (Xia et al., arxiv 2025) LIVE-SWE-AGENT: Can Software Engineering Agents Self-Evolve on the Fly? [[Paper](https://arxiv.org/pdf/2511.13646)] [[Code](https://github.com/OpenAutoCoder/live-swe-agent)]
