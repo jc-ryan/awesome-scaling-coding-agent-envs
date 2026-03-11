@@ -41,6 +41,8 @@ This repository is a curated collection of resources dedicated to:
 
 ##### EnvAgent
 
+- (Zhang et al., arxiv 2026) DOCKSMITH: Scaling Reliable Coding Environments via an Agentic Docker Builder [[Paper](https://arxiv.org/abs/2602.00592)]
+- (Li et al., arxiv 2026) HerAgent: Rethinking the Automated Environment Deployment via Hierarchical Test Pyramid [[Paper](https://arxiv.org/abs/2602.07871)] [[Code](https://github.com/EuniAI/HerAgent)]
 - (Kovrigin et al., NIPS2025 workshop) Advancing Environment Setup LLMs through Online Reinforcement Learning [[Paper](https://openreview.net/pdf?id=9TsxdPdhSz)] [[Code](https://github.com/envsetup-rl-dl4c/envsetup-rl)]
 - (Guo et al., FSE 2026) SWE-Factory: Your Automated Factory for Issue
 Resolution Training Data and Evaluation Benchmarks [[Paper](https://arxiv.org/pdf/2506.10954v1)] [[Code](https://github.com/DeepSoftwareAnalytics/swe-factory)]
